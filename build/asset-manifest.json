@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.05d599cb.chunk.js",
+    "main.js.map": "/static/js/main.05d599cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e6b65449.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e6b65449.js.map",
+    "static/js/2.d0523a6a.chunk.js": "/static/js/2.d0523a6a.chunk.js",
+    "static/js/2.d0523a6a.chunk.js.map": "/static/js/2.d0523a6a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.339323369668b13fb4782a0ad9d0aff2.js": "/precache-manifest.339323369668b13fb4782a0ad9d0aff2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.d0523a6a.chunk.js.LICENSE.txt": "/static/js/2.d0523a6a.chunk.js.LICENSE.txt",
+    "static/media/alimentacao.svg": "/static/media/alimentacao.44dbaa78.svg",
+    "static/media/bank_logo.svg": "/static/media/bank_logo.f3a2bff4.svg",
+    "static/media/dinheiro.svg": "/static/media/dinheiro.b97c300b.svg",
+    "static/media/olho.svg": "/static/media/olho.acd41ceb.svg",
+    "static/media/outros.svg": "/static/media/outros.17e95f3c.svg",
+    "static/media/privado.svg": "/static/media/privado.134d853a.svg",
+    "static/media/saude.svg": "/static/media/saude.605ef9ca.svg",
+    "static/media/themeOff.svg": "/static/media/themeOff.0981f5bf.svg",
+    "static/media/themeOn.svg": "/static/media/themeOn.75ea2814.svg",
+    "static/media/transporte.svg": "/static/media/transporte.15a4ed73.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6b65449.js",
+    "static/js/2.d0523a6a.chunk.js",
+    "static/js/main.05d599cb.chunk.js"
+  ]
+}
